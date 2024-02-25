@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+main()
+{
+	char a;
+cout<<"input the character\n";
+cin>>a;
+if((a>='a' && a<='z')||(a>='A' && a<='Z'))
+{
+cout<<"its an alphabet";
+}
+else
+cout<<"not an alphabet";
+}
