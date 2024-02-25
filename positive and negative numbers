@@ -1,5 +1,3 @@
-#positive and negative numbers
-
 #include<iostream>
 using namespace std;
 main()
